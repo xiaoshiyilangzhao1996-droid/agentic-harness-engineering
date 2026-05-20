@@ -18,10 +18,6 @@
   <img src="assets/figures/banner.jpg" alt="Agentic Harness Engineering" width="100%">
 </p>
 
-<p align="center">
-  <img src="assets/figures/training_curve.png" alt="Training Curve" width="70%">
-</p>
-
 > 本文档为英文 [README.md](README.md) 的中文翻译，可能略有滞后；如有冲突以英文版为准。
 
 ---
@@ -48,8 +44,9 @@ AHE 建立在三层可观测性之上：
 经过十轮 `评估 → 分析 → 改进` 迭代，**AHE** 在 GPT-5.4 上把 Terminal-Bench 2 的 pass@1 从 **69.7% 提升到 77.0%**，超过手写的 Codex (71.9%) 以及自演化的 ACE 与 TF-GRPO 基线；同时产出了一个无需重新演化即可迁移到 SWE-bench-verified 以及四个其他基础模型上的"冻结 harness"，表明被演化出的组件编码的是通用工程经验，而非针对单一 benchmark 的调优。
 
 <p align="center">
-  <img src="assets/figures/transfer_model.png" alt="Cross-Model Transfer" width="47%">
-  <img src="assets/figures/case_study.png" alt="Case Study" width="51%">
+  <img src="assets/figures/transfer_model.png" alt="Cross-Model Transfer" width="28%">
+  <img src="assets/figures/case_study.png" alt="Case Study" width="31%">
+  <img src="assets/figures/training_curve.png" alt="Training Curve" width="39%">
 </p>
 
 ---
