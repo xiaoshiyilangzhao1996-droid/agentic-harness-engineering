@@ -3,6 +3,10 @@
 <div align="left">
 
 <p align="left">
+  <a href="https://arxiv.org/abs/2604.25850"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b.svg?logo=arxiv&logoColor=white"></a>
+  <a href="agentic_harness_engineering.pdf"><img alt="PDF" src="https://img.shields.io/badge/PDF-Download-ec1c24.svg?logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://dawning-road.github.io/blog/agentic-harness-engineering"><img alt="Blog" src="https://img.shields.io/badge/Blog-Dawning_Road-ff7e1b.svg?logo=readthedocs&logoColor=white"></a>
+  <a href="https://www.tbench.ai/leaderboard/terminal-bench/2.0"><img alt="Terminal-Bench 2.0" src="https://img.shields.io/badge/Terminal--Bench_2.0-%233_%C2%B7_84.7%25-gold.svg?logo=trophy&logoColor=white"></a>
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg">
   <img alt="Python" src="https://img.shields.io/badge/python-%E2%89%A53.13-blue.svg">
   <img alt="Managed with uv" src="https://img.shields.io/badge/managed_with-uv-261230?logo=python&logoColor=white">
@@ -14,7 +18,7 @@
   <img src="assets/figures/banner.jpg" alt="Agentic Harness Engineering" width="100%">
 </p>
 
-<p align="right">
+<p align="left">
   <a href="README.md">English</a> | 简体中文
 </p>
 
